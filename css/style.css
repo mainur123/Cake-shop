@@ -1,0 +1,25 @@
+body{
+	background-color: #D0D3D4;
+}
+
+.content{
+	
+	padding: 15px;
+}
+img{
+	margin-top: 30px;
+	display: block;
+}
+
+h2{
+	color: #196F3D;
+}
+
+.content-area{
+	margin-top: 50px;
+}
+
+.alignment{
+	text-align: center;
+}
+
